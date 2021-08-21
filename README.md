@@ -1,3 +1,6 @@
+# Next.js project with NextAuth authentication built for learning
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -33,10 +36,3 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-apiKey: "AIzaSyAWTGBWE7p4h8J-vKFeS5-c61K_EBKg1ic",
-authDomain: "next-auth-40aa6.firebaseapp.com",
-projectId: "next-auth-40aa6",
-storageBucket: "next-auth-40aa6.appspot.com",
-messagingSenderId: "478872394404",
-appId: "1:478872394404:web:5a8be0777aa76af9b76431"
-};
